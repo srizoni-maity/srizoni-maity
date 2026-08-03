@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Srizoni!</h1>
-<h3 align="center">
-A self-motivated and passionate individual looking to pursue a Research MS
-</h3>
-
+<h1 align="center">Hi, I'm Srizoni!</h1>
 
 
 
 🎓 B.Tech in in Computer Science and Engineering Specialization in Data Science
 
-🔬 Researching Explainable AI, Multimodal AI, Computer Vision, NLP, Trustworthy ML & Edge Intelligence
+🔬 Researching XAI, Multimodal Artificial Intelligence, Computer Vision, Natural Language Processing, Trustworthy Machine Learning, and Edge Intelligence 
 
 🧠 Current Research: Explainable Machine Learning Framework for Early Prediction of PCOS
 
