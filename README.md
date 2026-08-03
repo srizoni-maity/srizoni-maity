@@ -18,4 +18,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/srizoni-maity/srizoni-maity/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srizoni-maity/srizoni-maity/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
