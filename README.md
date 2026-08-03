@@ -1,6 +1,6 @@
 ### Hi, I'm Srizoni Maity 👋
 
-🎓 B.Tech in Computer Science Engineering (Data Science)
+🎓 B.Tech in in Computer Science and Engineering Specialization in Data Science
 
 🔬 Researching Explainable AI, Multimodal AI, Computer Vision, NLP, Trustworthy ML & Edge Intelligence
 
@@ -12,8 +12,9 @@
 - LinkedIn: https://linkedin.com/in/srizoni-maity-012235356
 - Email: your_email@gmail.com
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srizoni-maity&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=srizoni-maity&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srizoni-maity&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/srizoni-maity?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/srizoni-maity?style=social)
