@@ -1,4 +1,7 @@
-###  Hi, I'm Srizoni !
+<h1 align="center">Hi 👋, I'm Srizoni!</h1>
+<h3 align="center">
+A self-motivated and passionate individual looking to pursue a Research MS
+</h3>
 
 
 
