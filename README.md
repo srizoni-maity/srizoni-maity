@@ -1,4 +1,7 @@
-### Hi, I'm Srizoni Maity 👋
+###  Hi, I'm Srizoni !
+
+
+
 
 🎓 B.Tech in in Computer Science and Engineering Specialization in Data Science
 
@@ -12,4 +15,4 @@
 - LinkedIn: https://linkedin.com/in/srizoni-maity-012235356
 - Email: im.srizoni@gmail.com
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srizoni-maity&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srizoni-maity&show_icons=true&count_private=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
